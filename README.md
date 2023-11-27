@@ -83,11 +83,6 @@ CCBB는 평소 리그 오브 레전드라는 게임을 하면서 다툼이 발�
 
 - SSE(Server-Sent-Event)를 이용해 구축
 - 투표, 댓글
-
-### 공약 이행
-
-![투표수락](C:\Users\SSAFY\Downloads\ccbb\reademe\공약이행.gif)
-
  
 
 ### 티어연동
