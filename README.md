@@ -11,34 +11,19 @@ CCBB는 평소 리그 오브 레전드라는 게임을 하면서 다툼이 발�
 ## ⚙️ 기술 스택
 
 ### BackEnd
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=black">
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=black">
-<img src="https://img.shields.io/badge/JPA-61DAFB?style=for-the-badge&logo=JPA&logoColor=black">
-<img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=black">
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=black"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=black"> <img src="https://img.shields.io/badge/JPA-61DAFB?style=for-the-badge&logo=JPA&logoColor=black"> <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=black">
 
 ### FrontEnd
 
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=black">
-<img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=black">
-<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=black">
-<img src="https://img.shields.io/badge/chartdotjs-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=black">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=black"> <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=black"> <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=black"> <img src="https://img.shields.io/badge/chartdotjs-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=black">
 
 ### Infra
 
-<img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=black">
-<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=black">
-<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=black">
-<img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=black">
+<img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=black"> <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=black"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=black"> <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=black">
 
 ### Cooperation
 
-<img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=black">
-<img src="https://img.shields.io/badge/jirasoftware-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=black">
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-<img src="https://img.shields.io/badge/mattermost-0058CC?style=for-the-badge&logo=mattermost&logoColor=black">
-<img src="https://img.shields.io/badge/gerrit-EEEEEE?style=for-the-badge&logo=gerrit&logoColor=black">
+<img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=black"> <img src="https://img.shields.io/badge/jirasoftware-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=black"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/mattermost-0058CC?style=for-the-badge&logo=mattermost&logoColor=black"> <img src="https://img.shields.io/badge/gerrit-EEEEEE?style=for-the-badge&logo=gerrit&logoColor=black">
 
 ## 💡 주요 기능
 
@@ -56,7 +41,7 @@ CCBB는 평소 리그 오브 레전드라는 게임을 하면서 다툼이 발�
 
 ### 투표 진행 플로우 차트
 
-![flowchart](/uploads/3c5cb5b9c2a2887e775df9389a58918a/flowchart.png)
+![flowchart](https://github.com/squareyun/ccbb/assets/122584199/b54a33db-8438-4d1d-bace-4fddb1988765)
 
 ### 투표게시글
 
@@ -101,23 +86,23 @@ CCBB는 평소 리그 오브 레전드라는 게임을 하면서 다툼이 발�
 
 ### 티어연동
 
-![티어연동_1](/uploads/422161394e84e28bd0e8978ae990dce0/티어연동_1.gif)
+![티어연동_1](https://github.com/squareyun/ccbb/assets/122584199/bcf54d00-a422-4e47-8c76-5a09657278bc)
 
 - RIOT API를 이용해 LOL 티어 정보 불러오기 기능
 
 ### 상품 응모
 
-![응모](/uploads/23f75c94ad8ddeb652057ac3b396fb67/응모.gif)
+![응모](https://github.com/squareyun/ccbb/assets/122584199/a69d8ad2-e189-4099-b38c-18ea6b220892)
 - 사이트에서 활동하면서 모인 포인트를 사용하여 상품을 응모하는 기능
 - **Pessimistic Lock**을 이용해 동시성 문제 해결
 
 ## 📄 아키텍처 설계도
 
-![아키텍처](/uploads/ca1577a224efd6f602a0938b0eb8dc00/아키텍처.png)
+![아키텍처](https://github.com/squareyun/ccbb/assets/122584199/a80e3643-44db-4c1f-9149-38895ab9d819)
 
 ## 📊 ERD
 
-![ERD](/uploads/e0785e1de391f260f888bcea8f6f809d/ERD.png)
+![ERD](https://github.com/squareyun/ccbb/assets/122584199/7618469e-ff38-4e36-a2fe-125071fb3d3a)
 
 ## ✌️ 팀원 소개
 
