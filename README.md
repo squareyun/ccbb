@@ -11,6 +11,7 @@ CCBB는 평소 리그 오브 레전드라는 게임을 하면서 다툼이 발�
 ## ⚙️ 기술 스택
 
 ### BackEnd
+
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=black"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=black"> <img src="https://img.shields.io/badge/JPA-61DAFB?style=for-the-badge&logo=JPA&logoColor=black"> <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=black">
 
 ### FrontEnd
@@ -26,7 +27,6 @@ CCBB는 평소 리그 오브 레전드라는 게임을 하면서 다툼이 발�
 <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=black"> <img src="https://img.shields.io/badge/jirasoftware-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=black"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/mattermost-0058CC?style=for-the-badge&logo=mattermost&logoColor=black"> <img src="https://img.shields.io/badge/gerrit-EEEEEE?style=for-the-badge&logo=gerrit&logoColor=black">
 
 ## 💡 주요 기능
-
 
 ### 메인페이지
 
@@ -45,7 +45,7 @@ CCBB는 평소 리그 오브 레전드라는 게임을 하면서 다툼이 발�
 
 ### 투표게시글
 
-![투표게시글](/uploads/0cf93186e8ffa67ccff85619642d4039/투표게시글.gif)
+![투표게시글](C:\Users\SSAFY\Downloads\ccbb\reademe\투표게시글.gif)
 
 - 투표 기능
   - 투표 기간이 끝나기 전에는 득표수가 보이지 않음
@@ -56,7 +56,7 @@ CCBB는 평소 리그 오브 레전드라는 게임을 하면서 다툼이 발�
 
 ### 투표 작성
 
-![글작성_2](/uploads/15a770bc0bfe225f49d6084aca076735/글작성_2.gif)
+![글작성_2](C:\Users\SSAFY\Downloads\ccbb\reademe\글작성_2.gif)
 
 - 영상 업로드
   - 논점을 가리기 위해 영상이 필요하다. 영상을 업로드 하는 기능
@@ -73,16 +73,18 @@ CCBB는 평소 리그 오브 레전드라는 게임을 하면서 다툼이 발�
 
 ### 투표 수락
 
-![투표수락](/uploads/c264b058517bf64cfac1f930eb6aad6f/투표수락.gif)
-
-### 공약 이행
-
-![투표수락](/uploads/c264b058517bf64cfac1f930eb6aad6f/투표수락.gif)
+![투표수락](C:\Users\SSAFY\Downloads\ccbb\reademe\투표수락.gif)
 
 ### 알림
 
 - SSE(Server-Sent-Event)를 이용해 구축
 - 투표, 댓글
+
+### 공약 이행
+
+![투표수락](C:\Users\SSAFY\Downloads\ccbb\reademe\공약이행.gif)
+
+ 
 
 ### 티어연동
 
@@ -93,6 +95,7 @@ CCBB는 평소 리그 오브 레전드라는 게임을 하면서 다툼이 발�
 ### 상품 응모
 
 ![응모](https://github.com/squareyun/ccbb/assets/122584199/a69d8ad2-e189-4099-b38c-18ea6b220892)
+
 - 사이트에서 활동하면서 모인 포인트를 사용하여 상품을 응모하는 기능
 - **Pessimistic Lock**을 이용해 동시성 문제 해결
 
